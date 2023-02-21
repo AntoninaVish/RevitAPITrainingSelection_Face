@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITrainingSelection_Face.dll"</Assembly>
+		<AddInId>4D5C5230-CB46-4B31-AE1B-DDAA2146773E</AddInId>
+		<FullClassName>RevitAPITrainingSelection_Face.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор элементов по грани для Revit</Text>
+	</AddIn>
+</RevitAddIns>
